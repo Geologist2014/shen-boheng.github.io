@@ -25,10 +25,10 @@ author:
   name             : "Shen Boheng"
   pronouns         : # example: "she/her"  
   bio              : "Doctor of Geoscience"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nanjing"
+  employer         : "Nanjing Institute of Geology and Palaeontology of the Chinese Academy of Sciences (NIGPAS)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bhshen@nigpas.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
